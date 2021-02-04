@@ -1,15 +1,15 @@
 # Hello Fellow Human!
 
-I'm Peris Ndanu, you can call me Pesh
+I'm Peris Ndanu, you can call me Mimi Peshy
 
 Here's a little about what I'm currently up to:
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Berabjesus&show_icons=true&line_height=17&show_icons=true&theme=dark)](https://github.com/Berabjesus/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berabjesus&show_icons=true&layout=compact&theme=dark)](https://github.com/Berabjesus/github-readme-stats)
+![Mimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimipeshy&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimipeshy&layout=compact)](https://github.com/mimipeshy/github-readme-stats)
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berabjesus&rank=S,A,AA,AAA&no-bg=true" alt="bereket beshane" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mimipeshy&rank=S,A,AA,AAA&no-bg=true" alt="bereket beshane" /></a> </p>
 
 - 🔥 I am a fullstack developer
-- 🦙 Pronouns: [He/Him/His](https://pronoun.is/he)
+- 🦙 Pronouns: [She/Her](https://pronoun.is/she)
 - 🏗 I’m currently in the Microverse Community
 - 🧙🏻‍♂️ I'm currently working on Phaser Game development and React
 - 👨🏻‍🎓 Ask me about Fullstack web Development and software engineering
@@ -22,11 +22,8 @@ If you want to contact me, the best way is through [email](perisndanu@gmail.com)
 ### Programming Languages
 <span align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/ruby/ruby-original-wordmark.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  
-  <img src= "https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+    
 
 </span>
 
