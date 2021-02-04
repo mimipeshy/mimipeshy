@@ -1,76 +1,71 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello Fellow Human!
 
-# Project Name
+I'm Peris Ndanu, you can call me Pesh
 
-> One paragraph statement about the project.
+Here's a little about what I'm currently up to:
 
-![screenshot](./app_screenshot.png)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Berabjesus&show_icons=true&line_height=17&show_icons=true&theme=dark)](https://github.com/Berabjesus/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berabjesus&show_icons=true&layout=compact&theme=dark)](https://github.com/Berabjesus/github-readme-stats)
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berabjesus&rank=S,A,AA,AAA&no-bg=true" alt="bereket beshane" /></a> </p>
 
-Additional description about the project and its features.
+- 🔥 I am a fullstack developer
+- 🦙 Pronouns: [He/Him/His](https://pronoun.is/he)
+- 🏗 I’m currently in the Microverse Community
+- 🧙🏻‍♂️ I'm currently working on Phaser Game development and React
+- 👨🏻‍🎓 Ask me about Fullstack web Development and software engineering
 
-## Built With
+If you want to contact me, the best way is through [email](perisndanu@gmail.com), [LinkedIn](https://www.linkedin.com/in/peris-ndanu-405083193/) or [Twitter](https://twitter.com/pygirl254)
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### The arrows in the quiver are listed below 
 
 
-To get a local copy up and running follow these simple example steps.
+### Programming Languages
+<span align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/ruby/ruby-original-wordmark.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  
+  <img src= "https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
-### Prerequisites
+</span>
 
-### Setup
+### Frameworks and Libraries
+<span align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://api.iconify.design/simple-icons:redux.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40">
+</span>
 
-### Install
+  ### Game Development
 
-### Usage
+  <span align="left">
+  <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-icon.svg" alt="phaser" width="40" height="40"/>
+  </span>
 
-### Run tests
+  ### Testing for Test Driven Development
 
-### Deployment
+  <span align="left">
+  <img src = "https://api.iconify.design/logos-jest.svg" width="40" height="40">
+  <img src = "https://api.iconify.design/file-icons:rspec.svg" width="40" height="40">
+  </span>
 
+### Databases
 
+<span align="left">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</span>
 
-## Authors
+### Tools
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
+<span align="left">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+<img src="https://api.iconify.design/logos:postman.svg" alt="postman" width="40" height="40" />
+<img src ="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/visualstudio/visualstudio-plain-wordmark.svg" width="40" height="40"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
+</span>
